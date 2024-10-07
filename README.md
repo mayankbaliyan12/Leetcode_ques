@@ -17,12 +17,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |

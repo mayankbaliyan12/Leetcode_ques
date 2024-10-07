@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

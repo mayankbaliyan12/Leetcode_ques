@@ -32,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

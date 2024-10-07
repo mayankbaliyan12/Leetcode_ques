@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -75,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

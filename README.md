@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 ## Hash Table
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0046-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |

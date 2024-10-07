@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0009-palindrome-number) |
 ## Two Pointers
@@ -46,4 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

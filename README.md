@@ -20,10 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |

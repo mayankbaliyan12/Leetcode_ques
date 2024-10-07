@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0029-divide-two-integers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

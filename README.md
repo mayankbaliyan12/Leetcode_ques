@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

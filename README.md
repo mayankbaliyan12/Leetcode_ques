@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1013-fibonacci-number) |
 ## Two Pointers

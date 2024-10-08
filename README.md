@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -312,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

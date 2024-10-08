@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0633-sum-of-square-numbers) |
 | [0790-global-and-local-inversions](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0790-global-and-local-inversions) |
 | [1013-fibonacci-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1013-fibonacci-number) |
+| [1289-day-of-the-week](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1289-day-of-the-week) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |

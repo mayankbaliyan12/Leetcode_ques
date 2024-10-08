@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0790-global-and-local-inversions](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
+| [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |

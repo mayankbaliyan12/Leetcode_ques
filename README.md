@@ -30,7 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -76,7 +76,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |

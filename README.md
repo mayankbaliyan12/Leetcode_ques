@@ -91,7 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
-| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Hash Table
 |  |
@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Dynamic Programming
 |  |

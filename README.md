@@ -76,7 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0932-monotonic-array) |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
+| [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -190,7 +191,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -329,7 +329,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -391,7 +390,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -405,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -413,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -440,13 +440,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -459,12 +457,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
-## Radix Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->

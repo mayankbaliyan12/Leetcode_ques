@@ -47,7 +47,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -69,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -120,7 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -140,7 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 ## Trie
 |  |
 | ------- |

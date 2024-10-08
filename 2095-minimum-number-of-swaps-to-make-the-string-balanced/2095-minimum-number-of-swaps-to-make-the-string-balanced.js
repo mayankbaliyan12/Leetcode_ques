@@ -13,6 +13,10 @@ var minSwaps = function (s) {
             count = 0;
         }
     }
-
-  return Math.ceil(fix / 2);
+    if (fix % 2 == 0) {
+        return fix / 2;
+    }
+    else {
+        return (fix + 1) / 2;
+    }
 };

@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |

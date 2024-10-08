@@ -58,7 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
-| [0455-assign-cookies](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -209,7 +209,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0443-string-compression) |
-| [0455-assign-cookies](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -219,7 +218,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
-| [0455-assign-cookies](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
@@ -275,7 +273,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
-| [0455-assign-cookies](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |

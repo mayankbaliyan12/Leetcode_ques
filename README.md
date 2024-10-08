@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0983-validate-stack-sequences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Rolling Hash
 |  |
 | ------- |

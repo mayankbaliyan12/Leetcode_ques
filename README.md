@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0058-length-of-last-word) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack

@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -298,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -328,4 +333,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

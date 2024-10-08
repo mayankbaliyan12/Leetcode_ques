@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |

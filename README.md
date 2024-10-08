@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |

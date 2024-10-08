@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |

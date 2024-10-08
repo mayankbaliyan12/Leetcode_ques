@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2032-largest-odd-number-in-string) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

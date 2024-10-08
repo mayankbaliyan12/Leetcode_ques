@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
 ## Union Find
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -446,4 +449,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1013-fibonacci-number) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

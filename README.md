@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0394-decode-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0394-decode-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |

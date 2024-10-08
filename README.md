@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0203-remove-linked-list-elements) |
 ## Trie
 |  |
 | ------- |

@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
 | ------- |

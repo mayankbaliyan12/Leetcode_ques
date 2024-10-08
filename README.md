@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -259,4 +261,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

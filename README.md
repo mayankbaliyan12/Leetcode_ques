@@ -37,12 +37,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -80,10 +82,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0011-container-with-most-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
 | ------- |

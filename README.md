@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Hash Table
 |  |

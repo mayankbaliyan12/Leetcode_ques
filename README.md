@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |

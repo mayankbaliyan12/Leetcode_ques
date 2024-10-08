@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,4 +251,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

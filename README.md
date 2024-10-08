@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0812-rotate-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0812-rotate-string) |
 ## Matrix
 |  |
 | ------- |

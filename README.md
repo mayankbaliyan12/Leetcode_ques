@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |

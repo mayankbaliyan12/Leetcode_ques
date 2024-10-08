@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
 ## String Matching
 |  |
 | ------- |

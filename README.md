@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |

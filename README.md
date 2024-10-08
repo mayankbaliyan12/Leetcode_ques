@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0055-jump-game) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |

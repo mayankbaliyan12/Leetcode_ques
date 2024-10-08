@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0932-monotonic-array) |
 ## Hash Table
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |

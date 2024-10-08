@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2199-two-furthest-houses-with-different-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |

@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |

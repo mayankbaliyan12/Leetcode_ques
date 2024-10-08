@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |

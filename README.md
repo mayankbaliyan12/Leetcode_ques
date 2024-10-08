@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |

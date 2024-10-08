@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0042-trapping-rain-water) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0790-global-and-local-inversions](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |

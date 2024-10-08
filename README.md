@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
@@ -55,7 +56,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
-| [0160-intersection-of-two-linked-lists](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
@@ -143,7 +144,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
-| [0160-intersection-of-two-linked-lists](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0189-rotate-array) |
@@ -169,7 +169,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0148-sort-list) |
-| [0160-intersection-of-two-linked-lists](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |

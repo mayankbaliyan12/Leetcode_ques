@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2047-find-a-peak-element-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Linked List
 |  |
 | ------- |

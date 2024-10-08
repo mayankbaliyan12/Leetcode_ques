@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |

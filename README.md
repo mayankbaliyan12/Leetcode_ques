@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2047-find-a-peak-element-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
 | [0983-validate-stack-sequences](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0983-validate-stack-sequences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |

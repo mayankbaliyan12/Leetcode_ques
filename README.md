@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0812-rotate-string) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0890-lemonade-change) |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking

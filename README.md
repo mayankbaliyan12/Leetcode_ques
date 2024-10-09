@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1078-remove-outermost-parentheses) |
 | [1542-consecutive-characters](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1547-destination-city) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

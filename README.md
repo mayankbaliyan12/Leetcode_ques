@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0670-maximum-swap) |
 | [0790-global-and-local-inversions](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0790-global-and-local-inversions) |
 | [1013-fibonacci-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1289-day-of-the-week) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
+| [0670-maximum-swap](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |

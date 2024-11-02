@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2235-capitalize-the-title](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2235-capitalize-the-title) |
+| [2580-circular-sentence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |

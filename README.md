@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0415-add-strings) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |

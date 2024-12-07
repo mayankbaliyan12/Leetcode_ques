@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0415-add-strings) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0611-valid-triangle-number) |
@@ -480,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
 ## String Matching
 |  |

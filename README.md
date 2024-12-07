@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0680-valid-palindrome-ii) |

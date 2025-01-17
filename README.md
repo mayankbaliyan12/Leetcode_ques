@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0485-max-consecutive-ones) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0611-valid-triangle-number) |

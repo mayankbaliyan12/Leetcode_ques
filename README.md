@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1160-letter-tile-possibilities](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1160-letter-tile-possibilities](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1160-letter-tile-possibilities) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1542-consecutive-characters](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1547-destination-city) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
+| [1160-letter-tile-possibilities](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1160-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -539,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [1160-letter-tile-possibilities](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1160-letter-tile-possibilities) |
 ## Sliding Window
 |  |
 | ------- |

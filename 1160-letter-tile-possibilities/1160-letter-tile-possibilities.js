@@ -1,23 +1,19 @@
-/**
- * @param {string} tiles
- * @return {number}
- */
 var numTilePossibilities = function(tiles) {
-   let map = new Map();
-	for(let i = 0; i < tiles.length; i++) {
-		map.set(tiles[i], (map.get(tiles[i]) || 0) +  1);
-	}
-	return helper(map);
+    let freqMap = new Map();
+    for (let char of tiles) {
+        freqMap.set(char, (freqMap.get(char) || 0) + 1);
+    }
+    return countSequences(freqMap);
 };
 
-function helper(map) {
+function countSequences(freqMap) {
     let sum = 0;
-    for(let [key, value] of map.entries()) {
-        if(value === 0) continue;
+    for (let [char, count] of freqMap) {
+        if (count === 0) continue;
         sum++;
-        map.set(key, map.get(key) - 1);
-        sum += helper(map, sum);
-        map.set(key, map.get(key) + 1);
+        freqMap.set(char, count - 1);
+        sum += countSequences(freqMap);
+        freqMap.set(char, count);
     }
-    return sum
-};
+    return sum;
+}

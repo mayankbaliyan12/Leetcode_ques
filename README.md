@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1289-day-of-the-week](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1289-day-of-the-week) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2032-largest-odd-number-in-string) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2871-double-a-number-represented-as-a-linked-list) |

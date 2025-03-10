@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-shift-2d-grid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0983-validate-stack-sequences) |
+| [1386-shift-2d-grid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1386-shift-2d-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [1386-shift-2d-grid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1386-shift-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |

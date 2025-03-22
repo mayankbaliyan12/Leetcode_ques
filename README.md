@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-shift-2d-grid](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1547-destination-city) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1160-letter-tile-possibilities) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |

@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
+| [1656-count-good-triplets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -643,4 +644,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1217-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->

@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |

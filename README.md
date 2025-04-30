@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0790-global-and-local-inversions](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0790-global-and-local-inversions) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0697-degree-of-an-array) |
 | [0876-hand-of-straights](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankbaliyan12/Leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
